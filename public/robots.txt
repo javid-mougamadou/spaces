@@ -1,0 +1,20 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://javid-space.cloud/sitemap.xml
+
+# Disallow iframe view pages from being indexed
+Disallow: /*?view=iframe
+
+# Allow all app description pages
+Allow: /apps/
+
+# Allow static assets
+Allow: /icons/
+Allow: /manifest.webmanifest
+Allow: /service-worker.js
+
+# Crawl-delay (optional, adjust as needed)
+Crawl-delay: 1
+
