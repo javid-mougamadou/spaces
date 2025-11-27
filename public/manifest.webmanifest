@@ -1,0 +1,47 @@
+{
+  "name": "Javid Spaces - Applications développées par Javid Mougamadou",
+  "short_name": "Javid Spaces",
+  "description": "Collection d'applications web développées par Javid Mougamadou. Applications pratiques pour simplifier votre quotidien.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "dir": "ltr",
+  "lang": "fr",
+  "categories": ["productivity", "business", "utilities"],
+  "author": "Javid Mougamadou",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "Applications",
+      "short_name": "Apps",
+      "description": "Voir toutes les applications",
+      "url": "/",
+      "icons": [
+        {
+          "src": "/icons/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}
+
+
