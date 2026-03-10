@@ -70,6 +70,10 @@ jobs:
           GITHUB_REPOSITORY: ${{ github.repository }}
         run: npm run build
 
+      # GitHub Pages SPA fallback: serve index.html for any unknown path (e.g. /apps/xxx)
+      - name: Copy index.html to 404.html for SPA routing
+        run: cp ./dist/index.html ./dist/404.html
+
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
