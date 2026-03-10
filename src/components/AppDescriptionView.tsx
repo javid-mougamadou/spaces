@@ -16,7 +16,8 @@ function AppDescriptionView({ app }: AppDescriptionViewProps) {
           <figure className="relative h-96 overflow-hidden">
             <img
               src={app.background_image}
-              alt={app.name}
+              alt={`${app.name} - Application par Javid Mougamadou, Javid Spaces`}
+              title={`${app.name} - Application développée par Javid Mougamadou | Javid Spaces`}
               className="w-full h-full object-cover"
               itemProp="image"
             />

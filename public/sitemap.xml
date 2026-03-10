@@ -1,43 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd
+        http://www.google.com/schemas/sitemap-image/1.1
+        http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd">
   
   <url>
     <loc>https://javid-space.cloud/</loc>
-    <lastmod>2026-02-21</lastmod>
+    <lastmod>2026-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://javid-space.cloud/apps/transaction-flow-calculator</loc>
-    <lastmod>2026-02-21</lastmod>
+    <lastmod>2026-03-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800</image:loc>
+      <image:title>Transaction Flow Calculator - Application par Javid Mougamadou, Javid Spaces</image:title>
+      <image:caption>Transaction Flow Calculator. Application développée par Javid Mougamadou. Javid Spaces - applications web Javid Mougamadou.</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://javid-space.cloud/apps/manifesto</loc>
-    <lastmod>2026-02-21</lastmod>
+    <lastmod>2026-03-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=800</image:loc>
+      <image:title>Manifesto - Application par Javid Mougamadou, Javid Spaces</image:title>
+      <image:caption>Manifesto. Application développée par Javid Mougamadou. Javid Spaces - applications web Javid Mougamadou.</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://javid-space.cloud/apps/virtual-wallet</loc>
-    <lastmod>2026-02-21</lastmod>
+    <lastmod>2026-03-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=800</image:loc>
+      <image:title>Virtual Wallet - Application par Javid Mougamadou, Javid Spaces</image:title>
+      <image:caption>Virtual Wallet. Application développée par Javid Mougamadou. Javid Spaces - applications web Javid Mougamadou.</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://javid-space.cloud/apps/focus</loc>
-    <lastmod>2026-02-21</lastmod>
+    <lastmod>2026-03-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?w=800</image:loc>
+      <image:title>Focus - Application par Javid Mougamadou, Javid Spaces</image:title>
+      <image:caption>Focus. Application développée par Javid Mougamadou. Javid Spaces - applications web Javid Mougamadou.</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://javid-space.cloud/apps/checklist</loc>
-    <lastmod>2026-03-05</lastmod>
+    <lastmod>2026-03-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=800</image:loc>
+      <image:title>Checklist - Application par Javid Mougamadou, Javid Spaces</image:title>
+      <image:caption>Checklist. Application développée par Javid Mougamadou. Javid Spaces - applications web Javid Mougamadou.</image:caption>
+    </image:image>
   </url>
 </urlset>

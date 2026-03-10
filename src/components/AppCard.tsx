@@ -27,7 +27,8 @@ function AppCard({ app }: AppCardProps) {
       <figure className="relative h-48 overflow-hidden">
         <img
           src={app.background_image}
-          alt={app.name}
+          alt={`${app.name} - Application par Javid Mougamadou, Javid Spaces`}
+          title={`${app.name} - Application développée par Javid Mougamadou | Javid Spaces`}
           className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-110"
         />
         <div className="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-60 transition-all duration-300 flex items-center justify-center gap-2">

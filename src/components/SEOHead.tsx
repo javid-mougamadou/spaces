@@ -47,7 +47,14 @@ function SEOHead() {
       const slug = path.split('/apps/')[1]?.split('?')[0];
       const app = apps.find((a) => a.slug === slug);
 
-      if (app) {
+      if (!app) {
+        document.title = 'Application non trouvée | Javid Spaces';
+        updateOrCreateMeta('description', 'Cette application n\'existe pas. Découvrez les applications développées par Javid Mougamadou sur Javid Spaces.');
+        updateOrCreateMeta('robots', 'noindex, nofollow');
+        updateOrCreateMeta('og:title', 'Application non trouvée | Javid Spaces', true);
+        updateOrCreateMeta('og:robots', 'noindex, nofollow', true);
+        updateOrCreateLink('canonical', `${baseUrl}/`);
+      } else if (app) {
         const fullUrl = `${baseUrl}${path}`;
         const isIframe = viewMode === 'iframe';
         
@@ -77,6 +84,8 @@ function SEOHead() {
         updateOrCreateMeta('og:description', enhancedDescription, true);
         updateOrCreateMeta('og:url', fullUrl, true);
         updateOrCreateMeta('og:image', app.background_image, true);
+        const imageAlt = `${app.name} - Application par Javid Mougamadou, Javid Spaces`;
+        updateOrCreateMeta('og:image:alt', imageAlt, true);
         updateOrCreateMeta('og:type', 'website', true);
         updateOrCreateMeta('og:locale', 'fr_FR', true);
 
@@ -84,6 +93,7 @@ function SEOHead() {
         updateOrCreateMeta('twitter:title', `${app.name} - Javid Spaces`, true);
         updateOrCreateMeta('twitter:description', enhancedDescription, true);
         updateOrCreateMeta('twitter:image', app.background_image, true);
+        updateOrCreateMeta('twitter:image:alt', imageAlt, true);
 
         updateOrCreateLink('canonical', fullUrl);
 
@@ -103,6 +113,7 @@ function SEOHead() {
           existingScript.remove();
         }
 
+        const imageCaption = `${app.name} - Application développée par Javid Mougamadou. Javid Spaces, applications web par Javid Mougamadou.`;
         const structuredData = {
           "@context": "https://schema.org",
           "@type": "WebApplication",
@@ -123,8 +134,18 @@ function SEOHead() {
             "name": "Javid Mougamadou",
             "url": "https://javid-mougamadou.pro/"
           },
-          "image": app.background_image,
-          "screenshot": app.background_image,
+          "image": {
+            "@type": "ImageObject",
+            "url": app.background_image,
+            "name": `${app.name} - Javid Mougamadou`,
+            "caption": imageCaption
+          },
+          "screenshot": {
+            "@type": "ImageObject",
+            "url": app.background_image,
+            "name": `${app.name} - Application Javid Spaces`,
+            "caption": imageCaption
+          },
           "aggregateRating": {
             "@type": "AggregateRating",
             "ratingValue": "5",
@@ -177,7 +198,7 @@ function SEOHead() {
 
         breadcrumbScript.textContent = JSON.stringify(breadcrumbData);
       }
-    } else {
+    } else if (!path.startsWith('/apps/')) {
       document.title = 'Javid Spaces - Applications développées par Javid Mougamadou';
       updateOrCreateMeta('description', 
         'Collection d\'applications web développées par Javid Mougamadou. Applications pratiques pour simplifier votre quotidien : gestion de finances, productivité, outils développeur et plus encore.'

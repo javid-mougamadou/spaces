@@ -123,3 +123,12 @@ export const isGAAvailable = (): boolean => {
   return IS_PRODUCTION && !!GA_MEASUREMENT_ID && isInitialized;
 };
 
+
+
+
+
+
+
+
+
+
