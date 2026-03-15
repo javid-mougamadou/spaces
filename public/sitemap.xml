@@ -9,7 +9,7 @@
   
   <url>
     <loc>https://javid-space.cloud/</loc>
-    <lastmod>2026-03-10</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -59,13 +59,24 @@
   </url>
   <url>
     <loc>https://javid-space.cloud/apps/checklist</loc>
-    <lastmod>2026-03-10</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=800</image:loc>
       <image:title>Checklist - Application par Javid Mougamadou, Javid Spaces</image:title>
       <image:caption>Checklist. Application développée par Javid Mougamadou. Javid Spaces - applications web Javid Mougamadou.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://javid-space.cloud/apps/counter</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800</image:loc>
+      <image:title>Counter - Application par Javid Mougamadou, Javid Spaces</image:title>
+      <image:caption>Counter. Application développée par Javid Mougamadou. Javid Spaces - applications web Javid Mougamadou.</image:caption>
     </image:image>
   </url>
 </urlset>
