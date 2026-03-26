@@ -5,7 +5,8 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const apps = JSON.parse(fs.readFileSync(path.join(__dirname, '../src/apps.json'), 'utf8'));
+const appsConfig = JSON.parse(fs.readFileSync(path.join(__dirname, '../src/apps.json'), 'utf8'));
+const apps = appsConfig.items;
 const baseUrl = 'https://javid-space.cloud';
 const today = new Date().toISOString().split('T')[0];
 

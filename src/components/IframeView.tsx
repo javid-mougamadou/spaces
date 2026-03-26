@@ -15,7 +15,7 @@ function IframeView({ app }: IframeViewProps) {
       <iframe
         src={app.url}
         className="flex-grow w-full border-0"
-        title={app.name}
+        title={`${app.name} - Application par Javid Mougamadou`}
         allow="fullscreen"
         style={{ minHeight: 0, height: 'calc(100vh - 60px)' }}
       />

@@ -1,11 +1,11 @@
 import { useEffect } from 'react';
 import { useLocation } from 'react-router-dom';
 import appsData from '../apps.json';
-import { App } from '../types';
+import { App, AppsConfig } from '../types';
 
 function SEOHead() {
   const location = useLocation();
-  const apps = appsData as App[];
+  const apps = (appsData as AppsConfig).items as App[];
   const baseUrl = 'https://javid-space.cloud';
 
   useEffect(() => {
@@ -57,6 +57,7 @@ function SEOHead() {
       } else if (app) {
         const fullUrl = `${baseUrl}${path}`;
         const isIframe = viewMode === 'iframe';
+        const imageAlt = `${app.name} - Application par Javid Mougamadou, Javid Spaces`;
         
         const enhancedDescription = `${app.description} Application développée par Javid Mougamadou. Découvrez cette application et d'autres outils pratiques sur Javid Spaces.`;
 
@@ -65,6 +66,10 @@ function SEOHead() {
           : `${app.name} - Application par Javid Mougamadou | Javid Spaces`;
 
         updateOrCreateMeta('description', enhancedDescription);
+        updateOrCreateMeta('author', 'Javid Mougamadou');
+        updateOrCreateMeta('creator', 'Javid Mougamadou');
+        updateOrCreateMeta('publisher', 'Javid Mougamadou');
+        updateOrCreateMeta('robots', isIframe ? 'noindex, follow' : 'index, follow');
 
         const keywords = [
           app.name,
@@ -83,8 +88,8 @@ function SEOHead() {
         updateOrCreateMeta('og:title', `${app.name} - Javid Spaces`, true);
         updateOrCreateMeta('og:description', enhancedDescription, true);
         updateOrCreateMeta('og:url', fullUrl, true);
+        updateOrCreateMeta('og:site_name', 'Javid Spaces', true);
         updateOrCreateMeta('og:image', app.background_image, true);
-        const imageAlt = `${app.name} - Application par Javid Mougamadou, Javid Spaces`;
         updateOrCreateMeta('og:image:alt', imageAlt, true);
         updateOrCreateMeta('og:type', 'website', true);
         updateOrCreateMeta('og:locale', 'fr_FR', true);
@@ -94,6 +99,8 @@ function SEOHead() {
         updateOrCreateMeta('twitter:description', enhancedDescription, true);
         updateOrCreateMeta('twitter:image', app.background_image, true);
         updateOrCreateMeta('twitter:image:alt', imageAlt, true);
+        updateOrCreateMeta('twitter:site', '@javid_space', true);
+        updateOrCreateMeta('twitter:creator', '@javid_space', true);
 
         updateOrCreateLink('canonical', fullUrl);
 
@@ -119,6 +126,7 @@ function SEOHead() {
           "@type": "WebApplication",
           "name": app.name,
           "description": app.description,
+          "keywords": keywords,
           "url": app.url,
           "applicationCategory": "WebApplication",
           "operatingSystem": "Web",
@@ -134,16 +142,28 @@ function SEOHead() {
             "name": "Javid Mougamadou",
             "url": "https://javid-mougamadou.pro/"
           },
+          "creator": {
+            "@type": "Person",
+            "name": "Javid Mougamadou",
+            "url": "https://javid-mougamadou.pro/"
+          },
+          "publisher": {
+            "@type": "Person",
+            "name": "Javid Mougamadou",
+            "url": "https://javid-mougamadou.pro/"
+          },
           "image": {
             "@type": "ImageObject",
             "url": app.background_image,
             "name": `${app.name} - Javid Mougamadou`,
+            "description": imageAlt,
             "caption": imageCaption
           },
           "screenshot": {
             "@type": "ImageObject",
             "url": app.background_image,
-            "name": `${app.name} - Application Javid Spaces`,
+            "name": `${app.name} - Application Javid Mougamadou`,
+            "description": imageAlt,
             "caption": imageCaption
           },
           "aggregateRating": {
