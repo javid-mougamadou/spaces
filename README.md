@@ -103,11 +103,7 @@ npm run generate:sitemap
 
 Private project by Javid Mougamadou
 
-## 👤 Author
+## Contact
 
-**Javid Mougamadou**
-
-- Website: [javid-mougamadou.pro](https://javid-mougamadou.pro/)
-- Project URL: [javid-space.cloud](https://javid-space.cloud)
-
+**Contact :** **Javid Mougamadou** — [Javid Space](https://javid-space.cloud/) · [Site web](https://javid-mougamadou.pro/) · [GitHub](https://github.com/javid-mougamadou) · [LinkedIn](https://www.linkedin.com/in/mougamadoujavid/) · [Discord](https://discord.gg/8rK6CKGb) · [Email](mailto:javid.mougamadou2@gmail.com)
 
