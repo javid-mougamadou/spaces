@@ -237,7 +237,10 @@ function SEOHead() {
         'Django',
         'développeur fullstack',
         'développeur web',
-        'applications Javid Mougamadou'
+        'applications Javid Mougamadou',
+        'countdown',
+        'compte à rebours',
+        'échéances'
       ].join(', ');
       updateOrCreateMeta('keywords', homeKeywords);
       updateOrCreateLink('canonical', `${baseUrl}/`);
