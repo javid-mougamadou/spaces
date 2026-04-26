@@ -2,6 +2,15 @@
   "default_filter": "apps",
   "items": [
     {
+      "uuid": "550e8400-e29b-41d4-a716-446655440012",
+      "slug": "chatbot",
+      "name": "Chatbot",
+      "description": "Chatbot IA propulsé par Claude. Posez des questions à Javid Mougamadou sur son expérience, ses compétences et ses services freelance.",
+      "background_image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800",
+      "url": "https://chatbot.javid-space.cloud/",
+      "kind": "app"
+    },
+    {
       "uuid": "550e8400-e29b-41d4-a716-44665544000a",
       "slug": "checklist",
       "name": "Checklist",
@@ -38,33 +47,6 @@
       "kind": "app"
     },
     {
-      "uuid": "550e8400-e29b-41d4-a716-446655440010",
-      "slug": "influxable",
-      "name": "Influxable",
-      "description": "ORM/ODM Python léger pour InfluxDB, conçu pour simplifier les modèles, les requêtes et la gestion des données time-series.",
-      "background_image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800",
-      "url": "https://influxable.javid-space.cloud/",
-      "kind": "repo"
-    },
-    {
-      "uuid": "550e8400-e29b-41d4-a716-446655440012",
-      "slug": "chatbot",
-      "name": "Chatbot",
-      "description": "Chatbot IA propulsé par Claude. Posez des questions à Javid Mougamadou sur son expérience, ses compétences et ses services freelance.",
-      "background_image": "https://images.unsplash.com/photo-1676573560183-3ea2b4d4d38d?w=800",
-      "url": "https://chatbot.javid-space.cloud/",
-      "kind": "app"
-    },
-    {
-      "uuid": "550e8400-e29b-41d4-a716-446655440011",
-      "slug": "llm-router",
-      "name": "LLM Router",
-      "description": "Proxy FastAPI expérimental qui route les requêtes OpenAI et Anthropic vers AWS Bedrock avec budgets, authentification et dashboards.",
-      "background_image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "url": "https://llm-router.javid-space.cloud/",
-      "kind": "repo"
-    },
-    {
       "uuid": "550e8400-e29b-41d4-a716-446655440008",
       "slug": "manifesto",
       "name": "Manifesto",
@@ -90,6 +72,24 @@
       "background_image": "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=800",
       "url": "https://virtual-wallet.javid-space.cloud/",
       "kind": "app"
+    },
+    {
+      "uuid": "550e8400-e29b-41d4-a716-446655440010",
+      "slug": "influxable",
+      "name": "Influxable",
+      "description": "ORM/ODM Python léger pour InfluxDB, conçu pour simplifier les modèles, les requêtes et la gestion des données time-series.",
+      "background_image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800",
+      "url": "https://influxable.javid-space.cloud/",
+      "kind": "repo"
+    },
+    {
+      "uuid": "550e8400-e29b-41d4-a716-446655440011",
+      "slug": "llm-router",
+      "name": "LLM Router",
+      "description": "Proxy FastAPI expérimental qui route les requêtes OpenAI et Anthropic vers AWS Bedrock avec budgets, authentification et dashboards.",
+      "background_image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "url": "https://llm-router.javid-space.cloud/",
+      "kind": "repo"
     }
   ]
 }
