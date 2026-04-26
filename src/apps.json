@@ -47,6 +47,15 @@
       "kind": "repo"
     },
     {
+      "uuid": "550e8400-e29b-41d4-a716-446655440012",
+      "slug": "chatbot",
+      "name": "Chatbot",
+      "description": "Chatbot IA propulsé par Claude. Posez des questions à Javid Mougamadou sur son expérience, ses compétences et ses services freelance.",
+      "background_image": "https://images.unsplash.com/photo-1676573560183-3ea2b4d4d38d?w=800",
+      "url": "https://chatbot.javid-space.cloud/",
+      "kind": "app"
+    },
+    {
       "uuid": "550e8400-e29b-41d4-a716-446655440011",
       "slug": "llm-router",
       "name": "LLM Router",
