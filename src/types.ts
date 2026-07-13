@@ -5,7 +5,7 @@ export interface App {
   description: string;
   background_image: string;
   url: string;
-  kind: 'app' | 'repo';
+  kind: 'app' | 'repo' | 'extension';
 }
 
 export interface AppsConfig {

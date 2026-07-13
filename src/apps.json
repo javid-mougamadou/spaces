@@ -90,6 +90,15 @@
       "background_image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
       "url": "https://llm-router.javid-space.cloud/",
       "kind": "repo"
+    },
+    {
+      "uuid": "550e8400-e29b-41d4-a716-446655440013",
+      "slug": "tab-suspender",
+      "name": "Tab Suspender",
+      "description": "Extension Chrome qui suspend les onglets inactifs pour libérer de la mémoire. Sans tracking, sans limites. Open source. Par Javid Mougamadou.",
+      "background_image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800",
+      "url": "https://chrome-tab-suspender.javid-space.cloud/",
+      "kind": "extension"
     }
   ]
 }
