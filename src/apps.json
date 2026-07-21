@@ -99,6 +99,15 @@
       "background_image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800",
       "url": "https://chrome-tab-suspender.javid-space.cloud/",
       "kind": "extension"
+    },
+    {
+      "uuid": "550e8400-e29b-41d4-a716-446655440014",
+      "slug": "lk-mission-radar",
+      "name": "LK Mission Radar",
+      "description": "Extension Chrome qui détecte les offres d'emploi dans tes messages LinkedIn, les score avec Claude AI, les stocke dans Notion et les partage sur Discord.",
+      "background_image": "https://images.unsplash.com/photo-1616469829581-73993eb86b02?w=800",
+      "url": "https://lk-mission-radar.javid-space.cloud/",
+      "kind": "extension"
     }
   ]
 }
