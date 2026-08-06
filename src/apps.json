@@ -74,6 +74,24 @@
       "kind": "app"
     },
     {
+      "uuid": "550e8400-e29b-41d4-a716-446655440015",
+      "slug": "claude-code-configurator",
+      "name": "Claude Code Configurator",
+      "description": "Interface web pour gérer la configuration Claude Code (~/.claude/) depuis le navigateur. CRUD pour CLAUDE.md, skills, agents, MCP servers, clés API, sessions PTY et sync GitHub.",
+      "background_image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800",
+      "url": "https://claude-code-configurator.javid-space.cloud/",
+      "kind": "repo"
+    },
+    {
+      "uuid": "550e8400-e29b-41d4-a716-446655440016",
+      "slug": "claude-code-webview",
+      "name": "Claude Code Webview",
+      "description": "Interface web self-hosted pour Claude. Chat en streaming avec tool use, historique des conversations et authentification par session. Binaire standalone, zéro dépendance.",
+      "background_image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=800",
+      "url": "https://claude-code-webview.javid-space.cloud/",
+      "kind": "repo"
+    },
+    {
       "uuid": "550e8400-e29b-41d4-a716-446655440010",
       "slug": "influxable",
       "name": "Influxable",
@@ -89,15 +107,6 @@
       "description": "Proxy FastAPI expérimental qui route les requêtes OpenAI et Anthropic vers AWS Bedrock avec budgets, authentification et dashboards.",
       "background_image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
       "url": "https://llm-router.javid-space.cloud/",
-      "kind": "repo"
-    },
-    {
-      "uuid": "550e8400-e29b-41d4-a716-446655440015",
-      "slug": "claude-code-configurator",
-      "name": "Claude Code Configurator",
-      "description": "Interface web pour gérer la configuration Claude Code (~/.claude/) depuis le navigateur. CRUD pour CLAUDE.md, skills, agents, MCP servers, clés API, sessions PTY et sync GitHub.",
-      "background_image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800",
-      "url": "https://claude-code-configurator.javid-space.cloud/",
       "kind": "repo"
     },
     {
