@@ -9,13 +9,24 @@
   
   <url>
     <loc>https://javid-space.cloud/</loc>
-    <lastmod>2026-04-08</lastmod>
+    <lastmod>2026-08-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://javid-space.cloud/apps/chatbot</loc>
+    <lastmod>2026-08-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800</image:loc>
+      <image:title>Chatbot - Application par Javid Mougamadou, Javid Spaces</image:title>
+      <image:caption>Chatbot. Application développée par Javid Mougamadou. Javid Spaces - applications web Javid Mougamadou.</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://javid-space.cloud/apps/checklist</loc>
-    <lastmod>2026-04-08</lastmod>
+    <lastmod>2026-08-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -26,7 +37,7 @@
   </url>
   <url>
     <loc>https://javid-space.cloud/apps/counter</loc>
-    <lastmod>2026-04-08</lastmod>
+    <lastmod>2026-08-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -37,7 +48,7 @@
   </url>
   <url>
     <loc>https://javid-space.cloud/apps/countdown</loc>
-    <lastmod>2026-04-08</lastmod>
+    <lastmod>2026-08-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -48,7 +59,7 @@
   </url>
   <url>
     <loc>https://javid-space.cloud/apps/focus</loc>
-    <lastmod>2026-04-08</lastmod>
+    <lastmod>2026-08-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -58,30 +69,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://javid-space.cloud/apps/influxable</loc>
-    <lastmod>2026-04-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800</image:loc>
-      <image:title>Influxable - Application par Javid Mougamadou, Javid Spaces</image:title>
-      <image:caption>Influxable. Application développée par Javid Mougamadou. Javid Spaces - applications web Javid Mougamadou.</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://javid-space.cloud/apps/llm-router</loc>
-    <lastmod>2026-04-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800</image:loc>
-      <image:title>LLM Router - Application par Javid Mougamadou, Javid Spaces</image:title>
-      <image:caption>LLM Router. Application développée par Javid Mougamadou. Javid Spaces - applications web Javid Mougamadou.</image:caption>
-    </image:image>
-  </url>
-  <url>
     <loc>https://javid-space.cloud/apps/manifesto</loc>
-    <lastmod>2026-04-08</lastmod>
+    <lastmod>2026-08-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -92,7 +81,7 @@
   </url>
   <url>
     <loc>https://javid-space.cloud/apps/transaction-flow-calculator</loc>
-    <lastmod>2026-04-08</lastmod>
+    <lastmod>2026-08-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -103,13 +92,90 @@
   </url>
   <url>
     <loc>https://javid-space.cloud/apps/virtual-wallet</loc>
-    <lastmod>2026-04-08</lastmod>
+    <lastmod>2026-08-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=800</image:loc>
       <image:title>Virtual Wallet - Application par Javid Mougamadou, Javid Spaces</image:title>
       <image:caption>Virtual Wallet. Application développée par Javid Mougamadou. Javid Spaces - applications web Javid Mougamadou.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://javid-space.cloud/apps/claude-code-configurator</loc>
+    <lastmod>2026-08-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800</image:loc>
+      <image:title>Claude Code Configurator - Application par Javid Mougamadou, Javid Spaces</image:title>
+      <image:caption>Claude Code Configurator. Application développée par Javid Mougamadou. Javid Spaces - applications web Javid Mougamadou.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://javid-space.cloud/apps/claude-code-webview</loc>
+    <lastmod>2026-08-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=800</image:loc>
+      <image:title>Claude Code Webview - Application par Javid Mougamadou, Javid Spaces</image:title>
+      <image:caption>Claude Code Webview. Application développée par Javid Mougamadou. Javid Spaces - applications web Javid Mougamadou.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://javid-space.cloud/apps/expense-tracking</loc>
+    <lastmod>2026-08-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800</image:loc>
+      <image:title>Expense Tracking - Application par Javid Mougamadou, Javid Spaces</image:title>
+      <image:caption>Expense Tracking. Application développée par Javid Mougamadou. Javid Spaces - applications web Javid Mougamadou.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://javid-space.cloud/apps/influxable</loc>
+    <lastmod>2026-08-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800</image:loc>
+      <image:title>Influxable - Application par Javid Mougamadou, Javid Spaces</image:title>
+      <image:caption>Influxable. Application développée par Javid Mougamadou. Javid Spaces - applications web Javid Mougamadou.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://javid-space.cloud/apps/llm-router</loc>
+    <lastmod>2026-08-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800</image:loc>
+      <image:title>LLM Router - Application par Javid Mougamadou, Javid Spaces</image:title>
+      <image:caption>LLM Router. Application développée par Javid Mougamadou. Javid Spaces - applications web Javid Mougamadou.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://javid-space.cloud/apps/tab-suspender</loc>
+    <lastmod>2026-08-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800</image:loc>
+      <image:title>Tab Suspender - Application par Javid Mougamadou, Javid Spaces</image:title>
+      <image:caption>Tab Suspender. Application développée par Javid Mougamadou. Javid Spaces - applications web Javid Mougamadou.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://javid-space.cloud/apps/lk-mission-radar</loc>
+    <lastmod>2026-08-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1616469829581-73993eb86b02?w=800</image:loc>
+      <image:title>LK Mission Radar - Application par Javid Mougamadou, Javid Spaces</image:title>
+      <image:caption>LK Mission Radar. Application développée par Javid Mougamadou. Javid Spaces - applications web Javid Mougamadou.</image:caption>
     </image:image>
   </url>
 </urlset>

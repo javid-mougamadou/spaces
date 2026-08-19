@@ -92,6 +92,15 @@
       "kind": "repo"
     },
     {
+      "uuid": "550e8400-e29b-41d4-a716-446655440017",
+      "slug": "expense-tracking",
+      "name": "Expense Tracking",
+      "description": "Suivi des dépenses et revenus par mois. Transactions, catégories, prélèvements récurrents et report de solde. Par Javid Mougamadou.",
+      "background_image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800",
+      "url": "https://expense-tracking.javid-space.cloud/",
+      "kind": "app"
+    },
+    {
       "uuid": "550e8400-e29b-41d4-a716-446655440010",
       "slug": "influxable",
       "name": "Influxable",
