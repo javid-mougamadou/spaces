@@ -135,6 +135,15 @@
       "background_image": "https://images.unsplash.com/photo-1616469829581-73993eb86b02?w=800",
       "url": "https://lk-mission-radar.javid-space.cloud/",
       "kind": "extension"
+    },
+    {
+      "uuid": "ee0e4992-dca1-4500-904c-60e129130e0c",
+      "slug": "journaling",
+      "name": "Journaling",
+      "description": "PWA de journaling personnel. Suivi d'activités par jour/semaine/année, mood du jour, gratitude, listings personnalisés et templates. Par Javid Mougamadou.",
+      "background_image": "https://images.unsplash.com/photo-1517842645767-c639042777db?w=800",
+      "url": "https://journaling.javid-space.cloud/",
+      "kind": "app"
     }
   ]
 }
