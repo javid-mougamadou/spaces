@@ -36,72 +36,6 @@
     </image:image>
   </url>
   <url>
-    <loc>https://javid-space.cloud/apps/counter</loc>
-    <lastmod>2026-08-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800</image:loc>
-      <image:title>Counter - Application par Javid Mougamadou, Javid Spaces</image:title>
-      <image:caption>Counter. Application développée par Javid Mougamadou. Javid Spaces - applications web Javid Mougamadou.</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://javid-space.cloud/apps/countdown</loc>
-    <lastmod>2026-08-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1501139083538-0139583c060f?w=800</image:loc>
-      <image:title>Countdown - Application par Javid Mougamadou, Javid Spaces</image:title>
-      <image:caption>Countdown. Application développée par Javid Mougamadou. Javid Spaces - applications web Javid Mougamadou.</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://javid-space.cloud/apps/focus</loc>
-    <lastmod>2026-08-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?w=800</image:loc>
-      <image:title>Focus - Application par Javid Mougamadou, Javid Spaces</image:title>
-      <image:caption>Focus. Application développée par Javid Mougamadou. Javid Spaces - applications web Javid Mougamadou.</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://javid-space.cloud/apps/manifesto</loc>
-    <lastmod>2026-08-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=800</image:loc>
-      <image:title>Manifesto - Application par Javid Mougamadou, Javid Spaces</image:title>
-      <image:caption>Manifesto. Application développée par Javid Mougamadou. Javid Spaces - applications web Javid Mougamadou.</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://javid-space.cloud/apps/transaction-flow-calculator</loc>
-    <lastmod>2026-08-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800</image:loc>
-      <image:title>Transaction Flow Calculator - Application par Javid Mougamadou, Javid Spaces</image:title>
-      <image:caption>Transaction Flow Calculator. Application développée par Javid Mougamadou. Javid Spaces - applications web Javid Mougamadou.</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://javid-space.cloud/apps/virtual-wallet</loc>
-    <lastmod>2026-08-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=800</image:loc>
-      <image:title>Virtual Wallet - Application par Javid Mougamadou, Javid Spaces</image:title>
-      <image:caption>Virtual Wallet. Application développée par Javid Mougamadou. Javid Spaces - applications web Javid Mougamadou.</image:caption>
-    </image:image>
-  </url>
-  <url>
     <loc>https://javid-space.cloud/apps/claude-code-configurator</loc>
     <lastmod>2026-08-21</lastmod>
     <changefreq>monthly</changefreq>
@@ -124,6 +58,39 @@
     </image:image>
   </url>
   <url>
+    <loc>https://javid-space.cloud/apps/conflict-helper</loc>
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1586806974856-c55e8b9364e4?w=800</image:loc>
+      <image:title>Conflict Helper - Application par Javid Mougamadou, Javid Spaces</image:title>
+      <image:caption>Conflict Helper. Application développée par Javid Mougamadou. Javid Spaces - applications web Javid Mougamadou.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://javid-space.cloud/apps/countdown</loc>
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1501139083538-0139583c060f?w=800</image:loc>
+      <image:title>Countdown - Application par Javid Mougamadou, Javid Spaces</image:title>
+      <image:caption>Countdown. Application développée par Javid Mougamadou. Javid Spaces - applications web Javid Mougamadou.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://javid-space.cloud/apps/counter</loc>
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800</image:loc>
+      <image:title>Counter - Application par Javid Mougamadou, Javid Spaces</image:title>
+      <image:caption>Counter. Application développée par Javid Mougamadou. Javid Spaces - applications web Javid Mougamadou.</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://javid-space.cloud/apps/expense-tracking</loc>
     <lastmod>2026-08-21</lastmod>
     <changefreq>monthly</changefreq>
@@ -132,6 +99,17 @@
       <image:loc>https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800</image:loc>
       <image:title>Expense Tracking - Application par Javid Mougamadou, Javid Spaces</image:title>
       <image:caption>Expense Tracking. Application développée par Javid Mougamadou. Javid Spaces - applications web Javid Mougamadou.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://javid-space.cloud/apps/focus</loc>
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?w=800</image:loc>
+      <image:title>Focus - Application par Javid Mougamadou, Javid Spaces</image:title>
+      <image:caption>Focus. Application développée par Javid Mougamadou. Javid Spaces - applications web Javid Mougamadou.</image:caption>
     </image:image>
   </url>
   <url>
@@ -146,25 +124,14 @@
     </image:image>
   </url>
   <url>
-    <loc>https://javid-space.cloud/apps/llm-router</loc>
+    <loc>https://javid-space.cloud/apps/journaling</loc>
     <lastmod>2026-08-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800</image:loc>
-      <image:title>LLM Router - Application par Javid Mougamadou, Javid Spaces</image:title>
-      <image:caption>LLM Router. Application développée par Javid Mougamadou. Javid Spaces - applications web Javid Mougamadou.</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://javid-space.cloud/apps/tab-suspender</loc>
-    <lastmod>2026-08-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800</image:loc>
-      <image:title>Tab Suspender - Application par Javid Mougamadou, Javid Spaces</image:title>
-      <image:caption>Tab Suspender. Application développée par Javid Mougamadou. Javid Spaces - applications web Javid Mougamadou.</image:caption>
+      <image:loc>https://images.unsplash.com/photo-1517842645767-c639042777db?w=800</image:loc>
+      <image:title>Journaling - Application par Javid Mougamadou, Javid Spaces</image:title>
+      <image:caption>Journaling. Application développée par Javid Mougamadou. Javid Spaces - applications web Javid Mougamadou.</image:caption>
     </image:image>
   </url>
   <url>
@@ -179,25 +146,58 @@
     </image:image>
   </url>
   <url>
-    <loc>https://javid-space.cloud/apps/journaling</loc>
+    <loc>https://javid-space.cloud/apps/llm-router</loc>
     <lastmod>2026-08-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://images.unsplash.com/photo-1517842645767-c639042777db?w=800</image:loc>
-      <image:title>Journaling - Application par Javid Mougamadou, Javid Spaces</image:title>
-      <image:caption>Journaling. Application développée par Javid Mougamadou. Javid Spaces - applications web Javid Mougamadou.</image:caption>
+      <image:loc>https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800</image:loc>
+      <image:title>LLM Router - Application par Javid Mougamadou, Javid Spaces</image:title>
+      <image:caption>LLM Router. Application développée par Javid Mougamadou. Javid Spaces - applications web Javid Mougamadou.</image:caption>
     </image:image>
   </url>
   <url>
-    <loc>https://javid-space.cloud/apps/conflict-helper</loc>
+    <loc>https://javid-space.cloud/apps/manifesto</loc>
     <lastmod>2026-08-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://images.unsplash.com/photo-1586806974856-c55e8b9364e4?w=800</image:loc>
-      <image:title>Conflict Helper - Application par Javid Mougamadou, Javid Spaces</image:title>
-      <image:caption>Conflict Helper. Application développée par Javid Mougamadou. Javid Spaces - applications web Javid Mougamadou.</image:caption>
+      <image:loc>https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=800</image:loc>
+      <image:title>Manifesto - Application par Javid Mougamadou, Javid Spaces</image:title>
+      <image:caption>Manifesto. Application développée par Javid Mougamadou. Javid Spaces - applications web Javid Mougamadou.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://javid-space.cloud/apps/tab-suspender</loc>
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800</image:loc>
+      <image:title>Tab Suspender - Application par Javid Mougamadou, Javid Spaces</image:title>
+      <image:caption>Tab Suspender. Application développée par Javid Mougamadou. Javid Spaces - applications web Javid Mougamadou.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://javid-space.cloud/apps/transaction-flow-calculator</loc>
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800</image:loc>
+      <image:title>Transaction Flow Calculator - Application par Javid Mougamadou, Javid Spaces</image:title>
+      <image:caption>Transaction Flow Calculator. Application développée par Javid Mougamadou. Javid Spaces - applications web Javid Mougamadou.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://javid-space.cloud/apps/virtual-wallet</loc>
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=800</image:loc>
+      <image:title>Virtual Wallet - Application par Javid Mougamadou, Javid Spaces</image:title>
+      <image:caption>Virtual Wallet. Application développée par Javid Mougamadou. Javid Spaces - applications web Javid Mougamadou.</image:caption>
     </image:image>
   </url>
 </urlset>

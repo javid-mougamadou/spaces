@@ -20,60 +20,6 @@
       "kind": "app"
     },
     {
-      "uuid": "550e8400-e29b-41d4-a716-44665544000b",
-      "slug": "counter",
-      "name": "Counter",
-      "description": "PWA de mini compteurs. Créez plusieurs compteurs, incrémentez-les, affichez en cartes, liste ou carrousel. Par Javid Mougamadou.",
-      "background_image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800",
-      "url": "https://counter.javid-space.cloud/",
-      "kind": "app"
-    },
-    {
-      "uuid": "550e8400-e29b-41d4-a716-44665544000c",
-      "slug": "countdown",
-      "name": "Countdown",
-      "description": "PWA de compte à rebours par événements. Titres, date et heure cible, décompte en direct, carrousel et vue plein écran, données en local. Par Javid Mougamadou.",
-      "background_image": "https://images.unsplash.com/photo-1501139083538-0139583c060f?w=800",
-      "url": "https://countdown.javid-space.cloud/",
-      "kind": "app"
-    },
-    {
-      "uuid": "550e8400-e29b-41d4-a716-446655440009",
-      "slug": "focus",
-      "name": "Focus",
-      "description": "Application PWA de focus avec timer circulaire. Créez une tâche, réglez la durée (1-60 min) et suivez la progression. Par Javid Mougamadou.",
-      "background_image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?w=800",
-      "url": "https://focus.javid-space.cloud/",
-      "kind": "app"
-    },
-    {
-      "uuid": "550e8400-e29b-41d4-a716-446655440008",
-      "slug": "manifesto",
-      "name": "Manifesto",
-      "description": "Manifeste zen Python (PEP 20). Découvrez les principes de conception du langage Python dans une interface épurée. Projet par Javid Mougamadou.",
-      "background_image": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=800",
-      "url": "https://manifesto.javid-space.cloud/",
-      "kind": "app"
-    },
-    {
-      "uuid": "550e8400-e29b-41d4-a716-446655440000",
-      "slug": "transaction-flow-calculator",
-      "name": "Transaction Flow Calculator",
-      "description": "Calculez et gérez les flux de transactions financières entre plusieurs comptes. Outil PWA gratuit pour la gestion de finances personnelles.",
-      "background_image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800",
-      "url": "https://transaction-flow-calculator.javid-space.cloud/",
-      "kind": "app"
-    },
-    {
-      "uuid": "550e8400-e29b-41d4-a716-446655440007",
-      "slug": "virtual-wallet",
-      "name": "Virtual Wallet",
-      "description": "Gestionnaire de portefeuille virtuel pour suivre et gérer vos finances personnelles. Interface intuitive et outils avancés de gestion budgétaire.",
-      "background_image": "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=800",
-      "url": "https://virtual-wallet.javid-space.cloud/",
-      "kind": "app"
-    },
-    {
       "uuid": "550e8400-e29b-41d4-a716-446655440015",
       "slug": "claude-code-configurator",
       "name": "Claude Code Configurator",
@@ -92,12 +38,48 @@
       "kind": "repo"
     },
     {
+      "uuid": "8a2a7825-7119-4df9-9e5a-3dbe2d2df6d4",
+      "slug": "conflict-helper",
+      "name": "Conflict Helper",
+      "description": "PWA personnelle pour comprendre et résoudre un conflit, seul(e), en 6 étapes. Assistant IA (mode guidé, traducteur OSBD). Par Javid Mougamadou.",
+      "background_image": "https://images.unsplash.com/photo-1586806974856-c55e8b9364e4?w=800",
+      "url": "https://conflict-helper.javid-space.cloud/",
+      "kind": "app"
+    },
+    {
+      "uuid": "550e8400-e29b-41d4-a716-44665544000c",
+      "slug": "countdown",
+      "name": "Countdown",
+      "description": "PWA de compte à rebours par événements. Titres, date et heure cible, décompte en direct, carrousel et vue plein écran, données en local. Par Javid Mougamadou.",
+      "background_image": "https://images.unsplash.com/photo-1501139083538-0139583c060f?w=800",
+      "url": "https://countdown.javid-space.cloud/",
+      "kind": "app"
+    },
+    {
+      "uuid": "550e8400-e29b-41d4-a716-44665544000b",
+      "slug": "counter",
+      "name": "Counter",
+      "description": "PWA de mini compteurs. Créez plusieurs compteurs, incrémentez-les, affichez en cartes, liste ou carrousel. Par Javid Mougamadou.",
+      "background_image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800",
+      "url": "https://counter.javid-space.cloud/",
+      "kind": "app"
+    },
+    {
       "uuid": "550e8400-e29b-41d4-a716-446655440017",
       "slug": "expense-tracking",
       "name": "Expense Tracking",
       "description": "Suivi des dépenses et revenus par mois. Transactions, catégories, prélèvements récurrents et report de solde. Par Javid Mougamadou.",
       "background_image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800",
       "url": "https://expense-tracking.javid-space.cloud/",
+      "kind": "app"
+    },
+    {
+      "uuid": "550e8400-e29b-41d4-a716-446655440009",
+      "slug": "focus",
+      "name": "Focus",
+      "description": "Application PWA de focus avec timer circulaire. Créez une tâche, réglez la durée (1-60 min) et suivez la progression. Par Javid Mougamadou.",
+      "background_image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?w=800",
+      "url": "https://focus.javid-space.cloud/",
       "kind": "app"
     },
     {
@@ -110,22 +92,13 @@
       "kind": "repo"
     },
     {
-      "uuid": "550e8400-e29b-41d4-a716-446655440011",
-      "slug": "llm-router",
-      "name": "LLM Router",
-      "description": "Proxy FastAPI expérimental qui route les requêtes OpenAI et Anthropic vers AWS Bedrock avec budgets, authentification et dashboards.",
-      "background_image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "url": "https://llm-router.javid-space.cloud/",
-      "kind": "repo"
-    },
-    {
-      "uuid": "550e8400-e29b-41d4-a716-446655440013",
-      "slug": "tab-suspender",
-      "name": "Tab Suspender",
-      "description": "Extension Chrome qui suspend les onglets inactifs pour libérer de la mémoire. Sans tracking, sans limites. Open source. Par Javid Mougamadou.",
-      "background_image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800",
-      "url": "https://chrome-tab-suspender.javid-space.cloud/",
-      "kind": "extension"
+      "uuid": "ee0e4992-dca1-4500-904c-60e129130e0c",
+      "slug": "journaling",
+      "name": "Journaling",
+      "description": "PWA de journaling personnel. Suivi d'activités par jour/semaine/année, mood du jour, gratitude, listings personnalisés et templates. Par Javid Mougamadou.",
+      "background_image": "https://images.unsplash.com/photo-1517842645767-c639042777db?w=800",
+      "url": "https://journaling.javid-space.cloud/",
+      "kind": "app"
     },
     {
       "uuid": "550e8400-e29b-41d4-a716-446655440014",
@@ -137,21 +110,48 @@
       "kind": "extension"
     },
     {
-      "uuid": "ee0e4992-dca1-4500-904c-60e129130e0c",
-      "slug": "journaling",
-      "name": "Journaling",
-      "description": "PWA de journaling personnel. Suivi d'activités par jour/semaine/année, mood du jour, gratitude, listings personnalisés et templates. Par Javid Mougamadou.",
-      "background_image": "https://images.unsplash.com/photo-1517842645767-c639042777db?w=800",
-      "url": "https://journaling.javid-space.cloud/",
+      "uuid": "550e8400-e29b-41d4-a716-446655440011",
+      "slug": "llm-router",
+      "name": "LLM Router",
+      "description": "Proxy FastAPI expérimental qui route les requêtes OpenAI et Anthropic vers AWS Bedrock avec budgets, authentification et dashboards.",
+      "background_image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "url": "https://llm-router.javid-space.cloud/",
+      "kind": "repo"
+    },
+    {
+      "uuid": "550e8400-e29b-41d4-a716-446655440008",
+      "slug": "manifesto",
+      "name": "Manifesto",
+      "description": "Manifeste zen Python (PEP 20). Découvrez les principes de conception du langage Python dans une interface épurée. Projet par Javid Mougamadou.",
+      "background_image": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=800",
+      "url": "https://manifesto.javid-space.cloud/",
       "kind": "app"
     },
     {
-      "uuid": "8a2a7825-7119-4df9-9e5a-3dbe2d2df6d4",
-      "slug": "conflict-helper",
-      "name": "Conflict Helper",
-      "description": "PWA personnelle pour comprendre et résoudre un conflit, seul(e), en 6 étapes. Assistant IA (mode guidé, traducteur OSBD). Par Javid Mougamadou.",
-      "background_image": "https://images.unsplash.com/photo-1586806974856-c55e8b9364e4?w=800",
-      "url": "https://conflict-helper.javid-space.cloud/",
+      "uuid": "550e8400-e29b-41d4-a716-446655440013",
+      "slug": "tab-suspender",
+      "name": "Tab Suspender",
+      "description": "Extension Chrome qui suspend les onglets inactifs pour libérer de la mémoire. Sans tracking, sans limites. Open source. Par Javid Mougamadou.",
+      "background_image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800",
+      "url": "https://chrome-tab-suspender.javid-space.cloud/",
+      "kind": "extension"
+    },
+    {
+      "uuid": "550e8400-e29b-41d4-a716-446655440000",
+      "slug": "transaction-flow-calculator",
+      "name": "Transaction Flow Calculator",
+      "description": "Calculez et gérez les flux de transactions financières entre plusieurs comptes. Outil PWA gratuit pour la gestion de finances personnelles.",
+      "background_image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800",
+      "url": "https://transaction-flow-calculator.javid-space.cloud/",
+      "kind": "app"
+    },
+    {
+      "uuid": "550e8400-e29b-41d4-a716-446655440007",
+      "slug": "virtual-wallet",
+      "name": "Virtual Wallet",
+      "description": "Gestionnaire de portefeuille virtuel pour suivre et gérer vos finances personnelles. Interface intuitive et outils avancés de gestion budgétaire.",
+      "background_image": "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=800",
+      "url": "https://virtual-wallet.javid-space.cloud/",
       "kind": "app"
     }
   ]
