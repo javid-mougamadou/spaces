@@ -128,6 +128,15 @@
       "kind": "app"
     },
     {
+      "uuid": "56f6af68-6ae2-45ac-ac27-3b5a1299487a",
+      "slug": "plan-charges",
+      "name": "Plan Charges",
+      "description": "Analyse financière patrimoniale PWA. Flux de revenus/charges, taux d'endettement, patrimoine et simulateur d'emprunt, sans backend. Par Javid Mougamadou.",
+      "background_image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800",
+      "url": "https://plan-charges.javid-space.cloud/",
+      "kind": "app"
+    },
+    {
       "uuid": "550e8400-e29b-41d4-a716-446655440013",
       "slug": "tab-suspender",
       "name": "Tab Suspender",
