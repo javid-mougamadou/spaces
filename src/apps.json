@@ -137,6 +137,15 @@
       "kind": "app"
     },
     {
+      "uuid": "68694dda-8ff5-4f75-92c1-b9ffbd119032",
+      "slug": "productivity-shield",
+      "name": "Productivity Shield",
+      "description": "Extension Chrome qui bloque la navigation distrayante pendant vos créneaux de productivité, avec whitelist/blacklist, pause et profils. Par Javid Mougamadou.",
+      "background_image": "https://images.unsplash.com/photo-1504507926084-34cf0b939964?w=800",
+      "url": "https://productivity-shield.javid-space.cloud/",
+      "kind": "extension"
+    },
+    {
       "uuid": "550e8400-e29b-41d4-a716-446655440013",
       "slug": "tab-suspender",
       "name": "Tab Suspender",
