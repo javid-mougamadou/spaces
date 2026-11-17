@@ -137,6 +137,15 @@
       "kind": "app"
     },
     {
+      "uuid": "040a6842-8dfd-4ff9-a795-68a04803df2c",
+      "slug": "platform-studio",
+      "name": "Platform Studio",
+      "description": "Vitrine d'environnements de développement en ligne prêts en quelques minutes (Docker, Python, Node.js, Code Server) avec harnais AI intégrés (Codex, Claude Code). Par Javid Mougamadou.",
+      "background_image": "https://images.unsplash.com/photo-1555099962-4199c345e5dd?w=800",
+      "url": "https://platform-studio.javid-space.cloud/",
+      "kind": "app"
+    },
+    {
       "uuid": "68694dda-8ff5-4f75-92c1-b9ffbd119032",
       "slug": "productivity-shield",
       "name": "Productivity Shield",
